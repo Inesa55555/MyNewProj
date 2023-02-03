@@ -1,0 +1,2 @@
+# MyNewProj
+My first GitHub
